@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config 'C:\Users\John Deadman\AppData\Local\Programs\oh-my-posh\themes\nordtron.omp.json' | Invoke-Expression
