@@ -1,0 +1,18 @@
+# My Favourite Oh-My-Posh Themes
+- avit
+- cobalt2
+-darkblood
+-gruvbox
+-iterm2
+-kali
+-multiverse-neon
+-nordtron
+-onehalf.minimal
+-pure
+-sim-web
+-spaceship
+-star
+-the-unnamed
+-tokyo
+-tonybaloney
+-ys
